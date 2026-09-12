@@ -1,8 +1,8 @@
-name: LovSonar Scan
+name: HøringsSonar Scan
 
 on:
   schedule:
-    - cron: '0 7 * * 3'  # Onsdag kl 07:00 UTC (08:00 norsk tid)
+    - cron: '0 7 * * 3'  # Onsdag kl 07:00 UTC (08:00/09:00 norsk tid)
   workflow_dispatch:  # Manuell kjøring
 
 permissions:
@@ -22,19 +22,19 @@ jobs:
         python-version: '3.11'
 
     - name: Install dependencies
-      run: pip install aiohttp feedparser beautifulsoup4 lxml
+      run: pip install -r requirements.txt
 
-    - name: Run LovSonar
+    - name: Run HøringsSonar
       env:
         EMAIL_USER: ${{ secrets.EMAIL_USER }}
         EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
         EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
-      run: python lovsonar.py
+      run: python horingssonar.py
 
     - name: Commit cache and reports
       run: |
-        git config --global user.name "LovSonar Bot"
-        git config --global user.email "lovsonar@bot.local"
-        git add lovsonar_cache.json lovsonar_rapport_*.md lovsonar_rapport_*.json || true
-        git diff --staged --quiet || git commit -m "LovSonar: Rapport $(date +'%Y-%m-%d')"
+        git config --global user.name "HøringsSonar Bot"
+        git config --global user.email "horingssonar@bot.local"
+        git add horingssonar_cache.json horingssonar_rapport_*.md horingssonar_rapport_*.json || true
+        git diff --staged --quiet || git commit -m "HøringsSonar: Rapport $(date +'%Y-%m-%d')"
         git push || true

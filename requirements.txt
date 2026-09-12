@@ -1,3 +1,4 @@
-requests
+aiohttp
+feedparser
 beautifulsoup4
 lxml

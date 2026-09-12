@@ -1,5 +1,7 @@
-# --- LovSonar Spesifikke filer ---
-# Vi ignorerer databaser og cache for å unngå konflikter og holde repoet ryddig
+# --- HøringsSonar spesifikke filer ---
+# horingssonar_cache.json COMMITTES bevisst av workflowen (ikke ignorert her) -
+# den holder styr på hvilke URL-er som er sett før, slik at rapportene ikke
+# fylles med de samme høringene uke etter uke.
 *.db
 lovsonar_cache*.json
 lovsonar_v*.db
