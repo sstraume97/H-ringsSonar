@@ -1,0 +1,203 @@
+{
+  "tidspunkt": "2026-09-12T14:43:14.837847",
+  "signaler": [
+    {
+      "type": "horing",
+      "kilde": "Regjeringen.no (alle departement)",
+      "kategori": "helse_og_omsorgstjenester",
+      "tittel": "Høring -  Kartleggingssystem for selvmord - forslag til lov- og forskriftsendringer",
+      "url": "https://www.regjeringen.no/no/dokumenter/horing-kartleggingssystem-for-selvmord-forslag-til-lov-og-forskriftsendringer/id3172299/?utm_source=regjeringen.no&utm_medium=rss",
+      "sammendrag": "Helse- og omsorgsdepartementet sender på høring forslag til lov- og forskriftsendringer for å få en varig hjemmel for det nasjonale kartleggingssystemet for selvmord i psykisk helsevern og tverrfaglig spesialisert rusbehandling.",
+      "keywords": [
+        "psykisk helsevern",
+        "rusbehandling"
+      ],
+      "prioritet": 3,
+      "sannsynlighet": "Medium",
+      "konsekvens": "Høy",
+      "tidshorisont": "1-3 år",
+      "deadline": "",
+      "publisert": null
+    },
+    {
+      "type": "horing",
+      "kilde": "Regjeringen.no (alle departement)",
+      "kategori": "nav_og_ytelser",
+      "tittel": "Høring av forslag til endringer i lov om folketrygd – sykepenger mv fra trygden til mottakere av uføretrygd",
+      "url": "https://www.regjeringen.no/no/dokumenter/horing-av-forslag-til-endringer-i-lov-om-folketrygd-sykepenger-mv-fra-trygden-til-mottakere-av-uforetrygd/id3170850/?utm_source=regjeringen.no&utm_medium=rss",
+      "sammendrag": "Vedlagt følger forslag om endring i folketrygdloven § 8-50. Forslaget innebærer å begrense retten til sykepenger, foreldrepenger, pleiepenger, opplæringspenger og omsorgspenger fra trygden til uføre til den enkeltes fastsatte inntekt etter uførhet. Det er behov for endringer etter at fribeløpet for ",
+      "keywords": [
+        "pleiepenger",
+        "omsorgspenger",
+        "uføretrygd",
+        "folketrygdloven"
+      ],
+      "prioritet": 3,
+      "sannsynlighet": "Medium",
+      "konsekvens": "Høy",
+      "tidshorisont": "<1 år",
+      "deadline": "",
+      "publisert": null
+    },
+    {
+      "type": "horing",
+      "kilde": "Regjeringen.no (alle departement)",
+      "kategori": "likestilling_og_rettigheter",
+      "tittel": "Forslag til lov om rettidig tilgjengelighet og forsyning av forsvarsprodukter (forsvarsforsyningsloven)",
+      "url": "https://www.regjeringen.no/no/dokumenter/forslag-til-lov-om-rettidig-tilgjengelighet-og-forsyning-av-forsvarsprodukter-forsvarsforsyningsloven/id3168058/?utm_source=regjeringen.no&utm_medium=rss",
+      "sammendrag": "Forsvarsdepartementet sender med dette forslag til en ny lov om rettidig tilgjengelighet og forsyning av forsvarsprodukter (forsvarsforsyningsloven) for gjennomføring av EDIP-forordningen på høring.",
+      "keywords": [
+        "tilgjengelighet"
+      ],
+      "prioritet": 3,
+      "sannsynlighet": "Medium",
+      "konsekvens": "Medium",
+      "tidshorisont": "1-3 år",
+      "deadline": "",
+      "publisert": null
+    },
+    {
+      "type": "horing",
+      "kilde": "Regjeringen.no (alle departement)",
+      "kategori": "barnevern_og_familie",
+      "tittel": "Høring om endringer i forskrift om fosterhjem",
+      "url": "https://www.regjeringen.no/no/dokumenter/horingsnotat-om-endringer-i-forskrift-om-fosterhjem/id3168071/?utm_source=regjeringen.no&utm_medium=rss",
+      "sammendrag": "Barne- og familiedepartementet sender med dette på høring forslag om endringer i forskrift om fosterhjem. Bakgrunnen for de foreslåtte endringene i forskriften er i hovedsak oppfølging av noen gjenstående tiltak i Meld St. 29 (2023–2024) Fosterheim – en trygg heim å bu i (fosterhjemsmeldingen), samt",
+      "keywords": [
+        "barnevernsloven",
+        "fosterhjem"
+      ],
+      "prioritet": 3,
+      "sannsynlighet": "Medium",
+      "konsekvens": "Høy",
+      "tidshorisont": "<1 år",
+      "deadline": "",
+      "publisert": null
+    },
+    {
+      "type": "horing",
+      "kilde": "Stortinget - høringsliste",
+      "kategori": "helse_og_omsorgstjenester",
+      "tittel": "Representantforslag om likhet i folketrygden for rusbehandling, psykiatri og somatikk under innleggelse i behandlingsinstitusjoner",
+      "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200358&utm_medium=rss&utm_source=www.stortinget.no&utm_campaign=Høringsliste",
+      "sammendrag": "",
+      "keywords": [
+        "rusbehandling"
+      ],
+      "prioritet": 3,
+      "sannsynlighet": "Medium",
+      "konsekvens": "Høy",
+      "tidshorisont": "1-3 år",
+      "deadline": "",
+      "publisert": null
+    },
+    {
+      "type": "horing",
+      "kilde": "Stortinget - høringsliste",
+      "kategori": "nav_og_ytelser",
+      "tittel": "Endringer i folketrygdloven (utvidet arbeidsulykkesbegrep og tydeliggjøring av bevisbyrden)",
+      "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200305&utm_medium=rss&utm_source=www.stortinget.no&utm_campaign=Høringsliste",
+      "sammendrag": "",
+      "keywords": [
+        "folketrygdloven"
+      ],
+      "prioritet": 3,
+      "sannsynlighet": "Medium",
+      "konsekvens": "Høy",
+      "tidshorisont": "Ukjent",
+      "deadline": "",
+      "publisert": null
+    },
+    {
+      "type": "representantforslag",
+      "kilde": "Stortinget - representantforslag",
+      "kategori": "helse_og_omsorgstjenester",
+      "tittel": "Dokument 8:307 S (2025-2026)",
+      "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Representantforslag/2025-2026/dok8-202526-307s/?utm_medium=rss&utm_source=www.stortinget.no&utm_campaign=Representantforslag",
+      "sammendrag": "Representantforslag fra stortingsrepresentantene Sebastian Saltrø Ytrevik, Alf Erik Andersen, Julia Brännström Nordtug og Bjørnar Laabak om likhet i folketrygden for rusbehandling, psykiatri og somatikk under innleggelse i behandlingsinstitusjoner",
+      "keywords": [
+        "rusbehandling"
+      ],
+      "prioritet": 3,
+      "sannsynlighet": "Lav",
+      "konsekvens": "Høy",
+      "tidshorisont": "<1 år",
+      "deadline": "",
+      "publisert": null
+    },
+    {
+      "type": "horing",
+      "kilde": "Utdanningsdirektoratet (Udir)",
+      "kategori": "skole_og_opplæring",
+      "tittel": "Nasjonal faglig retningslinje om fravær",
+      "url": "https://hoering.udir.no/hoering/3891",
+      "sammendrag": "Retningslinjen er utviklet i samarbeid mellom Utdanningsdirektoratet (Udir), Barne-, ungdoms- og familiedirektoratet (Bufdir), Helsedirektoratet (Hdir), Statped og Folkehelseinstituttet (FHI). Målet er å bidra til likeverdige tjenester av høy kvalitet, forebygge fravær og gi elever med bekymringsful",
+      "keywords": [
+        "skolefravær"
+      ],
+      "prioritet": 3,
+      "sannsynlighet": "Medium",
+      "konsekvens": "Høy",
+      "tidshorisont": "Ukjent",
+      "deadline": "",
+      "publisert": null
+    },
+    {
+      "type": "horing",
+      "kilde": "Helsedirektoratet",
+      "kategori": "helse_og_omsorgstjenester",
+      "tittel": "Brukerstyrte tiltak og aktiviteter innen psykisk helse-, rusmiddel- og voldsfeltet",
+      "url": "https://www.helsedirektoratet.no/horinger/brukerstyrte-tiltak-og-aktiviteter-innen-psykisk-helse-rusmiddel-og-voldsfeltet",
+      "sammendrag": "Brukerstyrte tiltak og aktiviteter innen psykisk helse-, rusmiddel- og voldsfeltet Høringsfrist: 16.09.2026",
+      "keywords": [
+        "psykisk helse"
+      ],
+      "prioritet": 1,
+      "sannsynlighet": "Medium",
+      "konsekvens": "Høy",
+      "tidshorisont": "<1 år",
+      "deadline": "Høringsfrist: 16.09.2026",
+      "publisert": null
+    },
+    {
+      "type": "horing",
+      "kilde": "Helsedirektoratet",
+      "kategori": "helse_og_omsorgstjenester",
+      "tittel": "Nasjonale handlingsplaner for habilitering og rehabilitering Forventet ferdigbehandlet: ikke avklart",
+      "url": "https://www.helsedirektoratet.no/horinger/nasjonale-handlingsplaner-for-habilitering-og-rehabilitering",
+      "sammendrag": "Nasjonale handlingsplaner for habilitering og rehabilitering Forventet ferdigbehandlet: ikke avklart",
+      "keywords": [
+        "habilitering",
+        "rehabilitering"
+      ],
+      "prioritet": 3,
+      "sannsynlighet": "Medium",
+      "konsekvens": "Høy",
+      "tidshorisont": "Ukjent",
+      "deadline": "",
+      "publisert": null
+    },
+    {
+      "type": "horing",
+      "kilde": "Bufdir",
+      "kategori": "barnevern_og_familie",
+      "tittel": "Kunnskapsbasert retningslinje for gjennomføring av samvær etter omsorgsovertakelse",
+      "url": "https://www.bufdir.no/om/hoeringer/horing-retningslinje-gjennomforing-samvaer/",
+      "sammendrag": "Kunnskapsbasert retningslinje for gjennomføring av samvær etter omsorgsovertakelse ",
+      "keywords": [
+        "omsorgsovertakelse"
+      ],
+      "prioritet": 3,
+      "sannsynlighet": "Medium",
+      "konsekvens": "Høy",
+      "tidshorisont": "Ukjent",
+      "deadline": "",
+      "publisert": null
+    }
+  ],
+  "feil": [],
+  "statistikk": {
+    "signaler_funnet": 11,
+    "kilder_sjekket": 6
+  }
+}
