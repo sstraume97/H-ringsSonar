@@ -1,0 +1,44 @@
+{
+  "tidspunkt": "2026-09-23T12:41:02.893493",
+  "signaler": [
+    {
+      "type": "horing",
+      "kilde": "Regjeringen.no (alle departement)",
+      "kategori": "likestilling_og_rettigheter",
+      "tittel": "Høring - endringer i sykepleieres og farmasøyters rett til å rekvirere vaksiner",
+      "url": "https://www.regjeringen.no/no/dokumenter/horing-endringer-i-sykepleieres-og-farmasoyters-rett-til-a-rekvirere-vaksiner/id3173007/?utm_source=regjeringen.no&utm_medium=rss",
+      "sammendrag": "Helse- og omsorgsdepartementet sender med dette på høring forslag til endringer i sykepleieres og farmasøyters rett til å rekvirere vaksiner. Endringene foreslås gjennomført ved endringer i forskrift om rekvirering og utlevering av legemidler m.m. og forskrift om legemiddelhåndtering for virksomhete",
+      "keywords": [
+        "tilgjengelighet"
+      ],
+      "prioritet": 3,
+      "sannsynlighet": "Medium",
+      "konsekvens": "Medium",
+      "tidshorisont": "1-3 år",
+      "deadline": "",
+      "publisert": null
+    },
+    {
+      "type": "horing",
+      "kilde": "Utdanningsdirektoratet (Udir)",
+      "kategori": "skole_og_opplæring",
+      "tittel": "Høring om endringer i organisering av skoledagen for 1. og 2. trinn",
+      "url": "https://hoering.udir.no/hoering/3990",
+      "sammendrag": "På oppdrag fra Kunnskapsdepartementet sender Utdanningsdirektoratet på høring forslag til endringer i organiseringen av skoledagen for 1. og 2. trinn. Formålet med endringene er å legge bedre til rette for en skoledag der opplæringen i lesing, skriving og regning styrkes, og det viktigste faginnhold",
+      "keywords": [
+        "barnehage"
+      ],
+      "prioritet": 3,
+      "sannsynlighet": "Medium",
+      "konsekvens": "Høy",
+      "tidshorisont": "1-3 år",
+      "deadline": "",
+      "publisert": null
+    }
+  ],
+  "feil": [],
+  "statistikk": {
+    "signaler_funnet": 2,
+    "kilder_sjekket": 6
+  }
+}
