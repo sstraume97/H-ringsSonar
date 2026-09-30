@@ -1,0 +1,44 @@
+{
+  "tidspunkt": "2026-09-30T13:31:22.497908",
+  "signaler": [
+    {
+      "type": "horing",
+      "kilde": "Regjeringen.no (alle departement)",
+      "kategori": "skole_og_opplæring",
+      "tittel": "Høring av forslag om å presisere i opplæringsloven at skolene kan tilby elever å være med på gudstjenester og andre seremonier knyttet til religion og livssyn",
+      "url": "https://www.regjeringen.no/no/dokumenter/horing-av-forslag-om-a-presisere-i-opplaringsloven-at-skolene-kan-tilby-elever-a-vare-med-pa-gudstjenester-og-andre-seremonier-knyttet-til-religion-og-livssyn/id3173070/?utm_source=regjeringen.no&utm_medium=rss",
+      "sammendrag": "Kunnskapsdepartementet sender med dette på høring forslag til endringer i opplæringsloven § 14-5 om å presisere at skolene kan tilby elevene å være med på gudstjenester og andre seremonier knyttet til religioner og livssyn",
+      "keywords": [
+        "opplæringsloven"
+      ],
+      "prioritet": 3,
+      "sannsynlighet": "Medium",
+      "konsekvens": "Høy",
+      "tidshorisont": "1-3 år",
+      "deadline": "",
+      "publisert": null
+    },
+    {
+      "type": "horing",
+      "kilde": "Regjeringen.no (alle departement)",
+      "kategori": "skole_og_opplæring",
+      "tittel": "Forslag til endringer i integreringsloven m.m. (permanente beredskapshjemler for å håndtere ev. fremtidige høye ankomster av asylsøkere)",
+      "url": "https://www.regjeringen.no/no/dokumenter/forslag-til-endringer-i-integreringsloven-m.m.-permanente-beredskapshjemler-for-a-handtere-ev.-fremtidige-hoye-ankomster-av-asylsokere/id3173614/?utm_source=regjeringen.no&utm_medium=rss",
+      "sammendrag": "Arbeids- og inkluderingsdepartementet sender på høring forslag til permanente beredskapshjemler i integreringsloven, barnehageloven, opplæringsloven, plan- og bygningsloven og husleieloven for å håndtere en eventuell fremtidig situasjon med høye ankomster av asylsøkere.",
+      "keywords": [
+        "opplæringsloven"
+      ],
+      "prioritet": 3,
+      "sannsynlighet": "Medium",
+      "konsekvens": "Høy",
+      "tidshorisont": "1-3 år",
+      "deadline": "",
+      "publisert": null
+    }
+  ],
+  "feil": [],
+  "statistikk": {
+    "signaler_funnet": 2,
+    "kilder_sjekket": 6
+  }
+}
