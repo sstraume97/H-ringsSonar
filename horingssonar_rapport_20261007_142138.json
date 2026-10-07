@@ -1,0 +1,27 @@
+{
+  "tidspunkt": "2026-10-07T14:21:38.429941",
+  "signaler": [
+    {
+      "type": "horing",
+      "kilde": "Regjeringen.no (alle departement)",
+      "kategori": "skole_og_opplæring",
+      "tittel": "Forslag til endringer i opplæringsloven og privatskoleloven om plikt til smågruppeundervisning og fjerning av krav om leksehjelp",
+      "url": "https://www.regjeringen.no/no/dokumenter/horing-forslag-til-endringer-i-opplaringsloven-og-privatskolen-smagruppeundervisning-og-leksehjelp/id3170886/?utm_source=regjeringen.no&utm_medium=rss",
+      "sammendrag": "Kunnskapsdepartementet sender på høring forslag til endringer i lov 9. juni 2023 nr. 30 om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringsloven) og lov 4. juli 2003 nr. 84 om private skolar med rett til statstilskot (privatskoleloven). Departementet foreslår å lovfeste en plikt for d",
+      "keywords": [
+        "opplæringsloven"
+      ],
+      "prioritet": 3,
+      "sannsynlighet": "Medium",
+      "konsekvens": "Høy",
+      "tidshorisont": "<1 år",
+      "deadline": "",
+      "publisert": null
+    }
+  ],
+  "feil": [],
+  "statistikk": {
+    "signaler_funnet": 1,
+    "kilder_sjekket": 6
+  }
+}
