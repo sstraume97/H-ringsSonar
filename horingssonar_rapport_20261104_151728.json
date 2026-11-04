@@ -1,0 +1,27 @@
+{
+  "tidspunkt": "2026-11-04T15:17:28.525170",
+  "signaler": [
+    {
+      "type": "horing",
+      "kilde": "Regjeringen.no (alle departement)",
+      "kategori": "arbeid_og_inkludering",
+      "tittel": "Høring - forslag til endringer i forskrift om tilskudd til sysselsetting av arbeidstakere til sjøs",
+      "url": "https://www.regjeringen.no/no/dokumenter/horing3/id3191007/?utm_source=regjeringen.no&utm_medium=rss",
+      "sammendrag": "Nærings- og fiskeridepartementet sender med dette på høring forslag til endringer i forskrift om tilskudd til sysselsetting av arbeidstakere til sjøs",
+      "keywords": [
+        "sysselsetting"
+      ],
+      "prioritet": 3,
+      "sannsynlighet": "Medium",
+      "konsekvens": "Medium",
+      "tidshorisont": "1-3 år",
+      "deadline": "",
+      "publisert": null
+    }
+  ],
+  "feil": [],
+  "statistikk": {
+    "signaler_funnet": 1,
+    "kilder_sjekket": 6
+  }
+}
