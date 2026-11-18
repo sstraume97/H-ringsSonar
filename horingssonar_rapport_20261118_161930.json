@@ -1,0 +1,44 @@
+{
+  "tidspunkt": "2026-11-18T16:19:30.868962",
+  "signaler": [
+    {
+      "type": "horing",
+      "kilde": "Regjeringen.no (alle departement)",
+      "kategori": "nav_og_ytelser",
+      "tittel": "Høring - Endringer i folketrygdloven, sosialtjenesteloven og lov om supplerende stønad til personer med kort botid, samt noen tilhørende forskrifter (normert pensjonsalder slitertillegg, m.m.)",
+      "url": "https://www.regjeringen.no/no/dokumenter/horing-endringer-i-folketrygdloven-sosialtjenesteloven-og-lov-om-supplerende-stonad-til-personer-med-kort-botid-samt-noen-tilhorende-forskrifter-normert-pensjonsalder/id3193247/?utm_source=regjeringen.no&utm_medium=rss",
+      "sammendrag": "Arbeids- og inkluderingsdepartementet sender med dette på høring forslag til endringer i folketrygdloven, sosialtjenesteloven og lov om supplerende stønad til personer med kort botid, samt noen tilhørende forskrifter, som følger opp pensjonsforliket som ble inngått 29. februar 2024. Lovforslagene in",
+      "keywords": [
+        "folketrygdloven"
+      ],
+      "prioritet": 3,
+      "sannsynlighet": "Medium",
+      "konsekvens": "Høy",
+      "tidshorisont": "<1 år",
+      "deadline": "",
+      "publisert": null
+    },
+    {
+      "type": "horing",
+      "kilde": "Stortinget - høringsliste",
+      "kategori": "nav_og_ytelser",
+      "tittel": "Endringer i folketrygdloven (refusjon av forskutterte sykepenger mv.)",
+      "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200517&utm_medium=rss&utm_source=www.stortinget.no&utm_campaign=Høringsliste",
+      "sammendrag": "",
+      "keywords": [
+        "folketrygdloven"
+      ],
+      "prioritet": 3,
+      "sannsynlighet": "Medium",
+      "konsekvens": "Høy",
+      "tidshorisont": "Ukjent",
+      "deadline": "",
+      "publisert": null
+    }
+  ],
+  "feil": [],
+  "statistikk": {
+    "signaler_funnet": 2,
+    "kilder_sjekket": 6
+  }
+}
